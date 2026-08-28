@@ -2,7 +2,7 @@ body {
 	font-family: Futara;
 	line-height: 1.5;
 	margin: 0;
-	padding: 0;
+	padding-left: 20px;
 	background-image: url("../Images/background.png");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -13,9 +13,6 @@ header {
 	background: #fff;
 	color: #000;
 	margin: 0.5rem;
-	padding-left: 20px;
-	}
-body h2 {
 	padding-left: 20px;
 	}
 header p {
@@ -50,6 +47,7 @@ main {
 	background: #fff;
 	color: #000;
 	max-width: 800px;
+	max-height: auto;
 	border: 3px solid #c600ff;
 	margin: 50px;
 	padding: 30px;
