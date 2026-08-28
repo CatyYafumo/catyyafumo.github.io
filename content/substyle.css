@@ -40,13 +40,12 @@ main {
 	display: grid;
 	grid-template-columns: 2fr 1fr;
 	padding: 10px;
-	overflow-y: auto;
 	max-width: 1200px;
 	}
 .ModText {
 	background: #fff;
 	color: #000;
-	max-width: 800px;
+	max-width: 850px;
 	max-height: auto;
 	border: 3px solid #c600ff;
 	margin: 50px;
