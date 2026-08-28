@@ -28,30 +28,31 @@ main {
 	padding: 0 1rem;
 	line-height: 1;
 	}
-entrada {
+.entrada {
 	background: #fff;
 	color: #000;
 	max-width: 800px;
 	padding: 1.5rem;
 	margin-bottom: 2rem;
-	border radius: 8px;
+	border-radius: 8px;
 	}
-ModInfo {
+.ModInfo {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	height: 100vh;
+	}
+.Mod {
 	padding: 30px;
 	overflow-y: auto;
 	}
-TextPart {
+.Text {
 	background: #fff;
-	color: #00;
+	color: #000;
+	padding: 10px;
 	border-right: 2px solid #e0e0e0;
 	}
-CoverPart {
+.Cover {
 	background: #fff;
-	border: 1px solid #2c3e50;
-	border-radius: 8px;
-	padding: 15px;
-	margin-bottom: 20px;
+	color: #000;
+	padding: 10px;
 	}
