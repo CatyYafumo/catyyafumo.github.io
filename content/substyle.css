@@ -49,7 +49,8 @@ main {
 .ModText {
 	background: #fff;
 	color: #000;
-	max-widht: 800px;
+	max-width: 800px;
+	border: 3px solid #c600ff;
 	margin: 50px;
 	padding: 30px;
 	}
@@ -57,8 +58,15 @@ main {
 	background: #fff;
 	color: #000;
 	max-width: 400px;
-	border: 3px solid purple;
+	border: 3px solid #c600ff;
 	margin: 50px;
 	padding: 30px;
 	border-radius: 8px;
+	}
+.ModCover p {
+	background: #c298cf;
+	color: #000;
+	max-width: 400px;
+	margin: 10px;
+	padding: 10px;
 	}
