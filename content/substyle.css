@@ -1,7 +1,7 @@
 body {
 	font-family: Futara;
 	line-height: 1.5;
-	margin: 10rem;
+	margin: 0;
 	padding: 0;
 	background-image: url("../Images/background.png");
 	background-repeat: no-repeat;
@@ -12,8 +12,8 @@ body {
 header {
 	background: #fff;
 	color: #000;
-	margin: 10rem;
-	padding: 0;
+	margin: 0.5rem;
+	padding: 5;
 	}
 header p {
 	margin: 0.5rem;
