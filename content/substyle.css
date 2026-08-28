@@ -30,6 +30,7 @@ main {
 .entrada {
 	background: #fff;
 	color: #000;
+	max-width: 800px;
 	padding: 1.5rem;
 	margin-bottom: 2rem;
 	border radius: 8px;
