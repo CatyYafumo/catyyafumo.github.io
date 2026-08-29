@@ -1,8 +1,8 @@
 body {
 	font-family: Futara;
-	line-height: 1;
+	line-height: 1.1;
 	margin: 0;
-	padding-left: 50px;
+	padding-left: 80px;
 	background-image: url("../Images/background.png");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -65,6 +65,6 @@ main {
 	background: #c298cf;
 	color: #000;
 	max-width: 450px;
-	margin: 10px;
-	padding: 30px;
+	margin: 5px;
+	padding: 10px;
 	}
