@@ -40,11 +40,12 @@ main {
 	display: grid;
 	grid-template-columns: 2fr 1fr;
 	padding: 10px;
-	max-width: 1200px;
+	max-width: 1300px;
 	}
 .ModText {
 	background: #fff;
 	color: #000;
+	line-height: 1;
 	max-width: 850px;
 	max-height: auto;
 	border: 3px solid #c600ff;
@@ -54,17 +55,17 @@ main {
 .ModCover {
 	background: #fff;
 	color: #000;
-	max-width: 400px;
+	max-width: 450px;
 	max-height: auto;
 	border: 3px solid #c600ff;
-	margin: 50px;
-	padding: 30px;
+	margin: 10px;
+	padding: 10px;
 	border-radius: 8px;
 	}
 .ModCover p {
 	background: #c298cf;
 	color: #000;
-	max-width: 400px;
-	margin: 10px;
-	padding: 10px;
+	max-width: 450px;
+	margin: 50px;
+	padding: 30px;
 	}
