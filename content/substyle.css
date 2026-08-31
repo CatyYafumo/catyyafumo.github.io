@@ -67,3 +67,10 @@ main {
 	margin: 5px;
 	padding: 10px;
 	}
+.Quote {
+	background: #fff;
+	color: #000;
+	margin: 5px;
+	padding-left: 50px;
+	max-width: 400px;
+	}
